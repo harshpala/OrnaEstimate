@@ -32,11 +32,11 @@ Say goodbye to manual calculations! OrnaEstimate streamlines jewellery pricing w
 ## 🖼 App Screenshots
 
 <p float="left">
-  <img src="assets/screenshot1.png" width="200" />
-  <img src="assets/screenshot2.png" width="200" />
-  <img src="assets/screenshot3.png" width="200" />
-  <img src="assets/screenshot4.png" width="200" />
-  <img src="assets/screenshot5.png" width="200" />
+  <img src="assets/screenshot1.png" width="150" />
+  <img src="assets/screenshot2.png" width="150" />
+  <img src="assets/screenshot3.png" width="150" />
+  <img src="assets/screenshot4.png" width="150" />
+  <img src="assets/screenshot5.png" width="150" />
 
 </p>
 
