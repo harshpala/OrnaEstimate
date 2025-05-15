@@ -63,7 +63,7 @@ OrnaEstimate was created to simplify the day-to-day operations of jewelers by el
 Need help or want to collaborate?
 
 - 📧 Email: [harshpala1@gmail.com](mailto:harshpala1@gmail.com)  
-- 📞 Phone: +91 95864 78159  
+- 📞 Phone: [+91 95864 78159](tel:+919586478159)  
 - 🧑‍💻 Developer: Harsh Pala
 
 ---
