@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/app_logo.png" alt="OrnaEstimate Logo" width="150"/>
+</p>
+
 # OrnaEstimate 💍📏  
 **Your Ultimate Jewellery Price Calculator**
 
@@ -32,6 +36,8 @@ Say goodbye to manual calculations! OrnaEstimate streamlines jewellery pricing w
   <img src="assets/screenshot2.png" width="200" />
   <img src="assets/screenshot3.png" width="200" />
   <img src="assets/screenshot4.png" width="200" />
+  <img src="assets/screenshot5.png" width="200" />
+
 </p>
 
 ---
